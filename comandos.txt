@@ -1,0 +1,193 @@
+    1  pwd
+    2  cd desktop
+    3  mkdir Camada1
+    4  cd Camada1
+    5  ls
+    6  mkdir Desayuno Almuerzo Cena
+    7  ls
+    8  cd Cena
+    9  touch arepa.txt pizza.pdf tostada.txt
+   10  ls
+   11  touch ensalada
+   12  ls
+   13  cd
+   14  cd -
+   15  cd ..
+   16  code ..
+   17  pwd
+   18  cd ../
+   19  pwd
+   20  cd Documents
+   21  cd Personales
+   22  mkdir DH
+   23  cd DH
+   24  mkdir repaso_clase1y2
+   25  cd repaso_clase1y2/
+   26  mkdir historia_de_la_contabilidad que_haremos_hoy servidores interfaces_de_usuario infraestructura
+   27  ls
+   28  cd historia_de_la_contabilidad/
+   29  touch repaso.txt
+   30  cd ..
+   31  cd que_haremos_hoy/
+   32  touch repaso.pdf
+   33  cd ..
+   34  cd servidores
+   35  touch repaso.jpg
+   36  cd
+   37  ls
+   38  mv Camada1 Documents
+   39  ls
+   40  cd C:\Users\Lenovo\OneDrive\Escritorio
+   41  pwd
+   42  cd OneDrive
+   43  cd Escritorio
+   44  mkdir DH
+   45  ls
+   46  cd DH
+   47  mkdir Repaso_clase1y2
+   48  cd Repaso_clase1y2/
+   49  mkdir Historia_De_La_Contabilidad Que_Haremos_Hoy Servidores Interfaces_De_Usuario Infraestructura
+   50  cd Historia_De_La_Contabilidad/
+   51  touch Repaso.txt
+   52  cd ..
+   53  cd Que_Haremos_Hoy/
+   54  touch Repaso.pdf
+   55  cd ..
+   56  cd Servidores/
+   57  touch Repaso.jpg
+   58  cd ..
+   59  cd Interfaces_De_Usuario/
+   60  touch Repaso.png
+   61  cd ..
+   62  cd Infraestructura/
+   63  touch Repaso.csv
+   64  cd ..
+   65  cd ..
+   66  ls -r
+   67  ls -R
+   68  code .
+   69  cd ..
+   70  cd ..
+   71  cd ..
+   72  ls
+   73  pwd
+   74  cd OneDrive
+   75  cd Documentos
+   76  mkdir Informes
+   77  cd Informes
+   78  touch InformeAnual.xls
+   79  ls
+   80  mkdir Auditoria
+   81  touch Auditoria.xls
+   82  touch ReporteConsolidado.xls
+   83  ls
+   84  mv Informes/Auditoria/Auditoria.xls Informes/Auditoria
+   85  mv Informes/Auditoria.xls Informes/Auditoria
+   86  mv Auditoria.xls Auditoria
+   87  mv ReporteConsolidado.xls Auditoria
+   88  ls
+   89  cd Auditoria
+   90  ls
+   91  git remote add originin https://github.com/yeraldyv/Repositorio_Intro.git
+   92  cd OneDrive/Documentos/Personales/Estudio/Profesional/Cursos/Digital House/INTRO A LA INFORMÁTICA/Proyecto Git
+   93  cd OneDrive/Documentos/Personales/Estudio/Profesional/Cursos
+   94  cd Digital House/INTRO A LA INFORMÁTICA/Proyecto Git
+   95  cd Digital House/INTRO A LA INFORMÁTICA
+   96  cd Digital House
+   97  pwd
+   98  cd OneDrive/Documentos
+   99  cd Personales/Estudio
+  100  mkdir Informes
+  101  cd Informes
+  102  touch InformeAnual.xls
+  103  ls
+  104  mkdir Auditoria
+  105  Touch Auditoria.xls
+  106  Touch ReporteConsolidado.xls
+  107  ls
+  108  pwd
+  109  mv Auditoria.xls Auditoria/
+  110  cd Auditoria
+  111  ls
+  112  git --version
+  113  cd OnOneDrive - Pontificia Universidad Javeriana/Personal/Cursos
+  114  cd OnOneDrive - Pontificia Universidad Javeriana/Personal
+  115  cd OnOneDrive - Pontificia Universidad Javeriana
+  116  cd "OneDrive - Pontificia Universidad Javeriana"/Personal/Cursos
+  117  cd "Digital House"/"INTRO A LA INFORMÁTICA"
+  118  cd PlayGround/"Actividad Confirmando Archivos"
+  119  mkdir mercadoAbierto
+  120  cd mercadoAbierto
+  121  git init
+  122  touch productos.js
+  123  git status
+  124  git add productos.js
+  125  gis status
+  126  git commit -m "mi primer commit"
+  127  git status
+  128  git clone https://github.com/yeraldyv/Repositorio_Intro.git
+  129  cd Repositorio_Intro.git
+  130  cd Repositorio_Intro
+  131  touch app.js
+  132  git status
+  133  git add app.js
+  134  git status
+  135  git commit -m "Mi primer commit"
+  136  git status
+  137  git push origin main
+  138  git status
+  139  cd OneDrive - Pontificia Universidad Javeriana
+  140  cd "OneDrive - Pontificia Universidad Javeriana"/Personal/Cursos
+  141  cd "Digital House"/"INTRO A LA INFORMATICA"/Material/Actividades
+  142  cd "Digital House"/"INTRO A LA INFORMÁTICA"/Material/Actividades
+  143  cd "Repaso Parcial 1"
+  144  git init
+  145  mv .git CheckPoint1608-YeraldyVillamizar
+  146  pwd
+  147  git remote add origin https://github.com/yeraldyv/CheckPoint1608-YeraldyVillamizar.git
+  148  cd CheckPoint1608-YeraldyVillamizar
+  149  touch main.js index.html
+  150  git commit -m "Commit 1 de YeraldyVillamizar"
+  151  cd ..
+  152  git commit -m "Commit 1 de YeraldyVillamizar"
+  153  cd ..
+  154  cd ..
+  155  cd ..
+  156  ls -a
+  157  git remote -v
+  158  rm -rf .git
+  159  cd 
+  160  cd -
+  161  cd Material/Actividades/"Repaso Parcial 1"
+  162  ls
+  163  cd CheckPoint1608-YeraldyVillamizar/
+  164  git status
+  165  ls -a
+  166  cd ..
+  167  ls -a
+  168  cd CheckPoint1608-YeraldyVillamizar/
+  169  ls -a
+  170  rm -rf .
+  171  rm -rf *
+  172  ls
+  173  git init
+  174  git remote add origin https://github.com/yeraldyv/CheckPoint1608-YeraldyVillamizar.git
+  175  touch main.js index.html
+  176  git commit -m "Commit 1 de YeraldyVillamizar"
+  177  git add .
+  178  git push origin main
+  179  git commit -m "Commit 1 de YeraldyVillamizar"
+  180  git push origin main
+  181  git push origin main
+  182  git branch feature
+  183  git switch feature
+  184  mkdir Hardware Software SeguridadInformatica
+  185  touch Hardware/resumen.txt Software/resumen.txt SeguridadInformatica/resumen.txt
+  186  git add .
+  187  git commit -m "Commit 2 de Yeraldy Villamizar"
+  188  git push origin feature
+  189  git switch main
+  190  mv main.js resumenHArdware.txt
+  191  mv index.html resumenSoftware.txt
+  192  touch comandos.txt
+  193  history > comandos.txt
